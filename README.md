@@ -1,2 +1,4 @@
 # spring-boot-todoapp
-a to do app for users to manage their to dos
+
+Author: Osman Serhat Yılmaz
+a to-do application for users to manage their to-do's
