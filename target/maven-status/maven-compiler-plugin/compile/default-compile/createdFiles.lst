@@ -1,0 +1,13 @@
+com\in28minutes\springboot\web\repository\UserRepository.class
+com\in28minutes\springboot\web\controller\TodoController.class
+com\in28minutes\springboot\web\domain\Todo.class
+com\in28minutes\springboot\web\domain\Login.class
+com\in28minutes\springboot\web\controller\LoginController.class
+com\in28minutes\springboot\web\controller\UserController.class
+com\in28minutes\springboot\web\SpringBootFirstWebApplication.class
+com\in28minutes\springboot\web\config\CouchbaseConfig.class
+com\in28minutes\springboot\web\service\LoginService.class
+com\in28minutes\springboot\web\service\TodoService.class
+com\in28minutes\springboot\web\repository\TodoRepository.class
+com\in28minutes\springboot\web\domain\User.class
+com\in28minutes\springboot\web\service\UserService.class
